@@ -39,6 +39,9 @@ NAMING CONVENTIONS:
 GITHUB MANAGEMENT:
 
 •	Repository Name: CCI_Phase2
-•	Contains: workflow document and README.md in the main branch.
+•	Contains: workflow document, yellowLight folder, and README.md in the main branch.
+•	The yellowLight folder contains Python code to sync videos and extract 20-second clips with yellow light.
+
+
 
 
