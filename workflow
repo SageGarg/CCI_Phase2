@@ -32,7 +32,13 @@ NAMING CONVENTIONS:
 •	The date follows the MM/DD/YYYY format.
 •	Hours and timestamps are represented in the military time format, such as 0000 for midnight, 0100 for 1:00 AM, 0006 for 12:06 AM, and so forth.
 •	Videos stored in CamID folders are named as follows:            stateName_countyName_intersectionName_approachName_distance_camID_Date
-•	Videos organized in the hour folder within the date folder of the synced directory follow this naming convention:     stateName_countyName_intersectionName_approachName_Date_Hour
-•	Videos categorized in the yellow light folder are named: stateName_countyName_intersectionName_approachName_Date_Hour_timeStamp.
+•	Videos organized in the hour folder within the date folder of the synced directory follow this naming convention:      stateName_countyName_intersectionName_approachName_Date_Hour
+•	Videos categorized in the yellow light folder are named:        stateName_countyName_intersectionName_approachName_Date_Hour_timeStamp.
+
+
+GITHUB MANAGEMENT:
+
+•	Repository Name: CCI_Phase2
+•	Contains: workflow document and README.md in the main branch.
 
 
